@@ -1,0 +1,25 @@
+1)Explain the use of JavaScript ( or What you can do using a JavaScript) ?
+Ans--Initially Javascript was built for client side scripting programming  language. But now it is used as both client side and server side programming language. 
+     Using Node.js we can run our javascript code at server side.
+     
+2)What is the difference between client-side and server-side?
+Ans--Client side means all the processes are done at user computer. Server is not required for client. We use HTML,CSS and JS for building client side system.
+     Whereas server side means all the process will be done in web servers. The logic behind the client process and data maintenance are done in server side.
+     
+3)What is Nodejs?
+Ans--Node.js setsup the environment were we can run our Javascript code outside the web browser. This is used when javascript is used for backend coding.
+
+4)Explain Scope in JavaScript?
+Ans--Scope represents the accessiblity of code like a function or variable so that same data can be shared. We have 3 types of scope in javascript. They are local, global
+     and block scope. Local Scope means the variables declared in function  can be accessed only in that function. It can't be used outside that function.Global Scope
+     means we can use  that variable globally. Block Scope means the variables can be accessed within that block.
+     
+5)JavaScript is asynchronous or synchronous?
+Ans--Javascript is  synchronous. It is possible to make it as asynchronous by using callBack functions. 
+
+6)JavaScript is Single-threaded or Multi-threaded.
+Ans--It is single-threaded application
+
+7)Explain DOM in your own word.
+Ans-- DOM stands for Document Object Model. The DOM  is an interface that represents how your HTML and XML
+      documents are read by the browser. It allows a language (JavaScript) to manipulate, structure, and style your website.
