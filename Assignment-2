@@ -1,0 +1,25 @@
+1)What is lexical structure?
+Ans--A programming language’s lexical structure specifies a set of some basic rules about how code should be written in it. Rules like what 
+      variable names look like, the delimiter characters for comments, and how one program statement is separated from the next. It is the lowest-level
+      syntax of a language.
+    
+2)What is Unicode?
+Ans--JavaScript is written in Unicode. This means you can use Emojis as variable names,but more importantly, you can write identifiers in any language, 
+     for example, Japanese or Chinese, with some rules.
+     
+3)Explain all the keywords present in the JavaScript with examples.
+Ans-- let , var , const , function , undefined, class , private, public, protected ,  enum , implements , void , do , while, if , else , break, continue,
+      switch , new , typeof, default , return , in , for , forEach, try , etc..... There are lot of keywords in JS.
+      
+4)What are shorthand operators, explain with a suitable example?
+Ans--These operators are used to show the expression in shorter way . 
+      Example : +=, -+, *=, /=, %=
+      1) x +=2  =====>   x=x+2
+      2)x -=2   ======> x=x-2
+      3)x *=2  ======> x=x*2
+      4)x /=2   =====> x=x/2
+      4)x %=2  ======> x=x%2
+      
+5)What is “use Strict” in JavaScript?
+Ans--""use Strict" defines  JavaScript code to  execute in "strict mode".
+     
